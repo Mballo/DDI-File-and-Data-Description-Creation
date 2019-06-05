@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<codeBook version="1.2.2" ID="ID_Study_Description" xml-lang="en" xmlns="http://www.icpsr.umich.edu/DDI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.icpsr.umich.edu/DDI http://www.icpsr.umich.edu/DDI/Version1-2-2.xsd">
+  <fileDscr ID="F4" URI="Data_Desc_XML.Nesstar?Index=0&amp;Name=Name_dataset">
+    <fileTxt>
+      <fileName>
+        Name_dataset.NSDstat
+      </fileName>
+      <fileCont>
+        "Description of the dataset"
+      </fileCont>
+      <dimensns>
+        <caseQnty>
+          1000
+        </caseQnty>
+        <varQnty>
+          23
+        </varQnty>
+      </dimensns>
+      <fileType>
+        Nesstar 200801
+      </fileType>
+    </fileTxt>
+  </fileDscr>
+  <dataDscr>
+    
+  </dataDscr>
+</codeBook>
